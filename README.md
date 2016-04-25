@@ -1,2 +1,3 @@
 # hello-world
-My Test
+
+This is to find out how to use github.
